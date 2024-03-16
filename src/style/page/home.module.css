@@ -1,0 +1,12 @@
+.home{
+    background-color: #274122;
+    height: 100vh;
+}
+
+.profile{
+    background-image: url("../../assets/profile.jpg");
+    border: 20;
+    margin: auto;
+    /* height: 150%;
+    width: 150%; */
+}
